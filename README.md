@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marufarocean&label=Profile%20views&color=0e75b6&style=flat" alt="marufarocean" /> </p>
 
-- 🌱 I’m currently learning **ASP.NET 8, Windows Presentation Foundation**
+- 🌱 I’m currently learning **ASP.NET Core, Windows Presentation Foundation**
 
 - 👨‍💻 This is my portfolio [https://marufarocean.github.io/Responsive-Portfolio-Website-main/](https://marufarocean.github.io/Responsive-Portfolio-Website-main/)
 
